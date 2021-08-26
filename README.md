@@ -1,9 +1,9 @@
 # FreeDTV
 
-### My FreeDTV
+### Custom For RomualdoWu
 https://github.com/RomualdoWu/FreeDTV/tree/main/tv
 
-### Custom
+### Custom For FongMi
 https://github.com/FongMi/FreeDTV/raw/main/tv/
 
 ### Source
