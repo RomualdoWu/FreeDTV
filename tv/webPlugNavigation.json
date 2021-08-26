@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "閃電影視",
+      "pic": "https://github.com/FongMi/FreeDTV/raw/main/image/ak1080.png",
+      "ads": "",
+      "webUrl": "https://www.ak1080.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "Gimy",
+      "pic": "https://github.com/FongMi/FreeDTV/raw/main/image/gimy.png",
+      "ads": "",
+      "webUrl": "https://gimy.app/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "小鴨影音",
+      "pic": "https://github.com/FongMi/FreeDTV/raw/main/image/777tv.png",
+      "ads": "",
+      "webUrl": "https://777tv.app/",
+      "webOpen": true,
+      "click": true
+    }
+  ]
+}
