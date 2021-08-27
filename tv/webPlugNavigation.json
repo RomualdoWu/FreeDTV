@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "name": "NFXHD(規則)",
+      "pic": "https://nfxhd.com/template/mytheme/statics/image/20210503/0976c4325.png",
+      "type": "webPlug",
+      "subTitle": "",
+      "subMobileTitle": "",
+      "ads": "",
+      "webUrl": "https://nfxhd.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://nfxhd.com/vodsearch/-------------/?wd={kw}&submit=",
+        "nav_url": "https://nfxhd.com/vodtype/navCate-navPage/",
+        "cate_url": "",
+        "web_name": "奈非",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "電影",
+            "美劇",
+            "日韓"
+          ],
+          "cate": [
+            "movie",
+            "tvplay",
+            "tvshow"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {},
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "ul > li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.myui-panel_bd.clearfix",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-tag.pic-tag-top",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-tag.pic-tag-top",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul#searchList",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {}
+        }
+      }
+    },
+    {
+      "name": "閃電影視",
+      "pic": "https://www.rensheng123.com/img/allimg/200805/2-200P51133090-L.png",
+      "ads": "",
+      "webUrl": "https://www.ak1080.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "Gimy",
+      "pic": "https://gimy.app/images/indexlogo2.png",
+      "ads": "",
+      "webUrl": "https://gimy.app/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "小鴨影音",
+      "pic": "https://777tv.app/images/indexlogo.png",
+      "ads": "",
+      "webUrl": "https://777tv.app/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "楓林網",
+      "pic": "https://bingfeng.tw/data/attachment/forum/201707/04/135301pzrbpxbgjpnyjcc9.png",
+      "ads": "",
+      "webUrl": "https://imaple.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "PttPlay",
+      "pic": "https://pttplay.cc/template/pttplay/images/icons/anime1-black.png",
+      "ads": "",
+      "webUrl": "https://pttplay.cc/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "Anime1.me",
+      "pic": "https://sta.anicdn.com/logo/260x260.png",
+      "ads": "",
+      "webUrl": "https://anime1.me/",
+      "webOpen": true,
+      "click": true
+    }
+  ]
+}
