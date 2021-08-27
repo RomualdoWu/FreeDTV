@@ -122,7 +122,7 @@
     },
     {
       "name": "NFXHD(規則)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "pic": "https://nfxhd.com/template/mytheme/statics/image/20210503/0976c4325.png",
       "type": "webPlug",
       "subTitle": "",
       "subMobileTitle": "",
@@ -238,7 +238,7 @@
     },
     {
       "name": "閃電影視",
-      "pic": "https://github.com/RomualdoWu/FreeDTV/tree/main/image/ak1080.png",
+      "pic": "https://www.rensheng123.com/img/allimg/200805/2-200P51133090-L.png",
       "ads": "",
       "webUrl": "https://www.ak1080.com/",
       "webOpen": true,
@@ -246,7 +246,7 @@
     },
     {
       "name": "Gimy",
-      "pic": "https://github.com/RomualdoWu/FreeDTV/tree/main/image/gimy.png",
+      "pic": "https://gimy.app/images/indexlogo2.png",
       "ads": "",
       "webUrl": "https://gimy.app/",
       "webOpen": true,
@@ -254,7 +254,7 @@
     },
     {
       "name": "小鴨影音",
-      "pic": "https://github.com/RomualdoWu/FreeDTV/tree/main/image/777tv.png",
+      "pic": "https://777tv.app/images/indexlogo.png",
       "ads": "",
       "webUrl": "https://777tv.app/",
       "webOpen": true,
@@ -262,9 +262,25 @@
     },
     {
       "name": "楓林網",
-      "pic": "https://github.com/RomualdoWu/FreeDTV/tree/main/image/imaple.png",
+      "pic": "https://bingfeng.tw/data/attachment/forum/201707/04/135301pzrbpxbgjpnyjcc9.png",
       "ads": "",
       "webUrl": "https://imaple.tv/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "PttPlay",
+      "pic": "https://pttplay.cc/template/pttplay/images/icons/anime1-black.png",
+      "ads": "",
+      "webUrl": "https://pttplay.cc/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "Anime1.me",
+      "pic": "https://sta.anicdn.com/logo/260x260.png",
+      "ads": "",
+      "webUrl": "https://anime1.me/",
       "webOpen": true,
       "click": true
     }
