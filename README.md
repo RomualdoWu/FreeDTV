@@ -2,6 +2,7 @@
 
 ### Custom For RomualdoWu
 https://github.com/RomualdoWu/FreeDTV/tree/main/tv
+https://cdn.jsdelivr.net/gh/RomualdoWu/FreeD@main/tv/
 
 ### Custom For FongMi
 https://github.com/FongMi/FreeDTV/raw/main/tv/
