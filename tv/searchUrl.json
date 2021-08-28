@@ -151,6 +151,14 @@
       "cate": "國產動漫,2&&日本動漫,3&&美國動漫,4&&其他動漫,20",
       "click": true,
       "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "櫻花動漫",
+      "url": "http://www.xcdm.net/api.php/provide/vod/at/xml/",
+      "cate": "日漫番劇,2&&國產動漫,3&&歐美動漫,4&&海外動漫,20",
+      "click": true,
+      "wePlus": {}
     }
   ]
 }
