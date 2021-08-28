@@ -33,8 +33,8 @@ custom/exterior/files/ | 收集到的檔
 
 [下載](https://wwi.lanzous.com/b025mpw7e) <br>
 選擇自建介面，輸入 
-- 默認：https://github.com/RomualdoWu/FreeDTV/tree/main/tv
-- 大陸：https://cdn.jsdelivr.net/gh/RomualdoWu/FreeDTV@main/tv/
+- 默認：https://github.com/RomualdoWu/FreeDTV/tree/raw/tv
+- 大陸：https://cdn.jsdelivr.net/gh/RomualdoWu/FreeDTV@raw/tv/
 
 <br>
 
